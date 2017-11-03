@@ -1,2 +1,2 @@
 # PARRS
-Personnel Augmented Reality Reference System
+Personal Augmented Reality Reference System
